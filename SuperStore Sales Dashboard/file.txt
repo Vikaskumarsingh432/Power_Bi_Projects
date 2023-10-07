@@ -1,0 +1,4 @@
+Objective of the project is find out insights to increase revenue of the store.
+
+Insights that is comming out form this dashborad:
+Between 2019 and 2020 in octuber month there are less product sold but high profit. So, In this we can check that is thier any offer that made high profit in particular month.
